@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Eclipse project files
+**/.DS_Store
+**/*.pyc
+**/__pycache__/
+.cproject
+.project
+.pydevproject
+.settings
+**/a.out
